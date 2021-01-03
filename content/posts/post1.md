@@ -1,5 +1,5 @@
 +++
-title = "Conseils pour prendre soin de votre Peau"
+title = "Conseils pour prendre soins de votre Peaux"
 date = 2021-01-01T23:26:20+01:00
 draft = false
 author = "Janine"
