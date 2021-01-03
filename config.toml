@@ -1,0 +1,11 @@
+baseURL = "https://astuces.netlify.app/"
+languageCode = "fr-fr"
+hreflang = "fr-fr"
+title = "Santé & Beauté"
+paginate = 5
+
+[params]
+dateFormat = "Jan 2, 2006, 3:04PM"
+
+[permalinks]
+  posts = "/:title/"

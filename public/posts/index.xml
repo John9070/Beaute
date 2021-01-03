@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Santé &amp; Beauté</title>
+    <link>https://astuces.netlify.app/posts/</link>
+    <description>Recent content in Posts on Santé &amp; Beauté</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sat, 02 Jan 2021 05:05:33 +0100</lastBuildDate><atom:link href="https://astuces.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cookies</title>
+      <link>https://astuces.netlify.app/cookies/</link>
+      <pubDate>Sat, 02 Jan 2021 05:05:33 +0100</pubDate>
+      
+      <guid>https://astuces.netlify.app/cookies/</guid>
+      <description>Définition d’un cookie Un cookie est un fichier texte déposé sur votre ordinateur lors de la visite d&amp;rsquo;un site ou de la consultation d&amp;rsquo;une publicité. Il a pour but de collecter des informations relatives à votre navigation et de vous adresser des services adaptés à votre terminal (ordinateur, mobile ou tablette). Les cookies sont gérés par votre navigateur internet.
+Utilisation des cookies (ou traceurs) Lors de la consultation du Site des cookies (ou traceurs) sont déposés sur votre ordinateur, votre mobile ou votre tablette.</description>
+    </item>
+    
+    <item>
+      <title>Comment Gagner de l&#39;argent sur Internet</title>
+      <link>https://astuces.netlify.app/comment-gagner-de-largent-sur-internet/</link>
+      <pubDate>Fri, 01 Jan 2021 23:26:20 +0100</pubDate>
+      
+      <guid>https://astuces.netlify.app/comment-gagner-de-largent-sur-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tout savoir sur les Sondages rémunérés</title>
+      <link>https://astuces.netlify.app/tout-savoir-sur-les-sondages-r%C3%A9mun%C3%A9r%C3%A9s/</link>
+      <pubDate>Fri, 01 Jan 2021 19:26:41 +0100</pubDate>
+      
+      <guid>https://astuces.netlify.app/tout-savoir-sur-les-sondages-r%C3%A9mun%C3%A9r%C3%A9s/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

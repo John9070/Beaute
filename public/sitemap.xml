@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://astuces.netlify.app/cookies/</loc>
+    <lastmod>2021-01-02T05:05:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/posts/</loc>
+    <lastmod>2021-01-02T05:05:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/</loc>
+    <lastmod>2021-01-02T05:05:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/comment-gagner-de-largent-sur-internet/</loc>
+    <lastmod>2021-01-01T23:26:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/tout-savoir-sur-les-sondages-r%C3%A9mun%C3%A9r%C3%A9s/</loc>
+    <lastmod>2021-01-01T19:26:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/about/</loc>
+    <lastmod>2021-01-01T07:02:52+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://astuces.netlify.app/tags/</loc>
+  </url>
+  
+</urlset>
